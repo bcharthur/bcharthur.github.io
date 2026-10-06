@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://bcharthur.github.io/portfolio-3d/sitemap.xml
+Sitemap: https://bcharthur.github.io/sitemap.xml

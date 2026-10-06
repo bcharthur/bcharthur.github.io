@@ -21,7 +21,7 @@ const HISTORY_MAX_ENTRIES = 120;
 const TREND_WINDOW_DAYS = 7;
 
 const USER_AGENT =
-  "Mozilla/5.0 (compatible; ArthurBouchaudPortfolioBot/1.0; +https://bcharthur.github.io/portfolio-3d/)";
+  "Mozilla/5.0 (compatible; ArthurBouchaudPortfolioBot/1.0; +https://bcharthur.github.io/)";
 
 const ROOT_ME_URL = "https://www.root-me.org/br0nson";
 const CYBER_LEARNING_LOGIN_URL = "https://cyber-learning.fr/wp-login.php";

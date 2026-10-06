@@ -34,7 +34,7 @@ de `REPLACE_WITH_KV_NAMESPACE_ID`.
 Sur GitHub : **Settings → Developer settings → Personal access tokens →
 Fine-grained tokens → Generate new token**
 
-- Repository access : uniquement `bcharthur/portfolio-3d`
+- Repository access : uniquement `bcharthur/bcharthur.github.io`
 - Permissions : **Actions → Read and write** (c'est le seul droit
   nécessaire, ce token ne doit avoir aucun autre accès)
 - Copie le token généré (il ne sera plus jamais réaffiché)

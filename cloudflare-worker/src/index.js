@@ -17,7 +17,7 @@
 // the live site a couple of minutes after the request, not instantly.
 
 const OWNER = "bcharthur";
-const REPO = "portfolio-3d";
+const REPO = "bcharthur.github.io";
 const WORKFLOW_FILE = "update-stats.yml";
 const REF = "master";
 

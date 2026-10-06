@@ -13,7 +13,7 @@
       // links and page refreshes hit GitHub's generic 404 instead of the
       // site's own NotFound page.
       // Adapted from https://github.com/rafgraph/spa-github-pages
-      var pathSegmentsToKeep = 1; // keep "/portfolio-3d"
+      var pathSegmentsToKeep = 0; // site hosted at domain root
       var l = window.location;
       var path = l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/');
       l.replace(
